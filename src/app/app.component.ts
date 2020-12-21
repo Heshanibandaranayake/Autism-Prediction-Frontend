@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+// @ts-ignore
+import { Component, OnInit} from '@angular/core';
 
 import { Platform } from '@ionic/angular';
 import { SplashScreen } from '@ionic-native/splash-screen/ngx';
